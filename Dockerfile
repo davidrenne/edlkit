@@ -1,5 +1,3 @@
-MAINTAINER Red5d
-
 FROM alpine:latest
 
 WORKDIR /usr/src/app
